@@ -1,7 +1,8 @@
 # Projeto de Infraestrutura de Software
 
-O primeiro Projeto se baseia na resolução de 6 questões problemas para
-aperfeiçoarmos o uso de threads nos códigos.
+Este diretório contém soluções para problemas específicos utilizando threads, como parte das atividades de Infraestrutura de Software. Cada subdiretório (Q1 a Q6) representa uma questão distinta, com sua própria implementação e desafios, conforme o arquivo `Lista de Threads 2024.1.pdf`.
+
+## Responsáveis por cada resolução
 
  - [x] Q1 - Emanuelle Giovanna(*egs2*)
  - [x] Q2 - Henrique César(*hchhc*)
@@ -10,7 +11,11 @@ aperfeiçoarmos o uso de threads nos códigos.
  - [x] Q5 - Emanuelle Giovanna(*egs2*) & Henrique César(*hchhc*)
  - [x] Q6 - Heitor Riquelme(*hrms2*) & Luiz Gustavo(*lgpss*)
 
-O segundo Projeto se baseia no projeto de PintOS.
+## Como Executar
 
-| [<img src="https://avatars.githubusercontent.com/u/96800329?v=4" width=115><br><sub>Luiz Gustavo</sub>](https://github.com/Zed201) |  [<img src="https://avatars.githubusercontent.com/u/101292201?v=4" width=115><br><sub>Heitor Melo</sub>](https://github.com/HeitorMelo)  | [<img src="https://avatars.githubusercontent.com/u/129231720?v=4" width=115><br><sub>Henrique César</sub>](https://github.com/SapoSopa) | [<img src="https://avatars.githubusercontent.com/u/136932932?v=4" width=115><br><sub>Emanuelle Giovanna</sub>](https://github.com/manugio3)
-| :---: | :---: | :--:| :--:|
+Para executar cada questão basta executar os comandos de compilar e executar devidamente (existem casos exemplos em algumas questões que estão a parte, então ajuste conforme necessário);
+
+Comando para compilar e executar:
+```sh
+gcc -pthread index.c -o programa
+./programa
