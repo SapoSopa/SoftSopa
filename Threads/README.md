@@ -13,7 +13,7 @@ Este diretório contém soluções para problemas específicos utilizando thread
 
 ## Como Executar
 
-Para executar cada questão basta executar os comandos de compilar e executar devidamente (existem casos exemplos em algumas questões que estão a parte, então ajuste conforme necessário);
+Para executar cada questão basta executar os comandos de compilar e executar devidamente (existem casos exemplos em algumas questões que estão a parte, então ajuste conforme necessário para executar);
 
 Comando para compilar e executar:
 ```sh
