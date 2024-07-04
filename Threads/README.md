@@ -4,12 +4,12 @@ Este diretório contém soluções para problemas específicos utilizando thread
 
 ## Responsáveis por cada resolução
 
- - [x] Q1 - Emanuelle Giovanna(*egs2*)
- - [x] Q2 - Henrique César(*hchhc*)
- - [x] Q3 - Heitor Riquelme(*hrms2*)
- - [x] Q4 - Luiz Gustavo(*lgpss*)
- - [x] Q5 - Emanuelle Giovanna(*egs2*) & Henrique César(*hchhc*)
- - [x] Q6 - Heitor Riquelme(*hrms2*) & Luiz Gustavo(*lgpss*)
+ - Q1 - Emanuelle Giovanna(*egs2*)
+ - Q2 - Henrique César(*hchhc*)
+ - Q3 - Heitor Riquelme(*hrms2*)
+ - Q4 - Luiz Gustavo(*lgpss*)
+ - Q5 - Emanuelle Giovanna(*egs2*) & Henrique César(*hchhc*)
+ - Q6 - Heitor Riquelme(*hrms2*) & Luiz Gustavo(*lgpss*)
 
 ## Como Executar
 
