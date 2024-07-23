@@ -1,6 +1,8 @@
 # Projetos de Infraestrutura de Software
 
-Este repositório contém dois projetos principais, cada um focado em uma área diferente da infraestrutura de software. O primeiro projeto se baseia na resolução de 6 questões problemas para aperfeiçoarmos o uso de threads nos códigos. O segundo projeto se baseia no projeto de PintOS.
+Este repositório contém dois projetos principais, cada um focado em uma área diferente da infraestrutura de software:
+- O primeiro projeto se baseia na resolução de 6 questões problemas para aperfeiçoarmos o uso de threads nos códigos;
+- O segundo projeto se baseia no projeto de PintOS;
 
 ## Integrantes:
 
